@@ -6,7 +6,7 @@
 
 To install office correctly, first you need to uninstall previous versions of windows and license keys asociated to that software
 
-Support and Recovery Asistant is the better tool for accomplish that task. Created by Microsoft
+Support and Recovery Asistant is the best tool for accomplish that. Created by Microsoft
 
 ### Installing SaRA
 
