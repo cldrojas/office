@@ -1,11 +1,10 @@
-# How to install office correctly
+# How to install Office
 
 ![cldrojas_logo](https://github.com/cldrojas/portfolio/blob/master/public/img/Daniel%20Rojas%20Brand.png)
 
 ## Uninstall Office previous installations
 
-To install office correctly, first you need to uninstall previous versions of windows and license keys asociated to that software
-
+To install office correctly, first you need to uninstall previous versions of windows and license keys asociated to that software  
 Support and Recovery Asistant is the best tool for accomplish that. Created by Microsoft
 
 ### Installing SaRA
@@ -47,4 +46,15 @@ cscript ospp.vbs /sethst:kms.srv.crsoo.com
 cscript ospp.vbs /act
 ```
 
-Close your terminal and you are ready to go. Congrats, office 2021 installed successfuly!
+Close your terminal and you're ready to go. Congrats, office 2021 was installed successfuly!
+
+
+# Free antivirus Avast
+## Download and install
+
+- https://www.avast.com/es-us/free-antivirus-download#pc
+
+   Uncheck install avast Secure browser  
+   Go to personalize and check all options on left column and last option on the right side  
+   Click continue to finalize configuring avast free  
+   Select free option and that's it
