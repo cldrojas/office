@@ -22,16 +22,18 @@ Restart your computer
 
 Download and unzip Microsoft Office 2021, then execute setup.exe file depending on your system architecture
 
-- https://drive.google.com/file/d/1zGBx3lodXCjDOEc9TeRIPqbcE_Ob3v9N/view
+- [descarga office](https://drive.google.com/file/d/1zGBx3lodXCjDOEc9TeRIPqbcE_Ob3v9N/view)
 
 Close your app and go to office installation folder within a terminal
+
+`Cierra la aplicación y abre powershell como administrador, ahí pega la siguiente linea`
 
 ```
 cd /d %ProgramFiles%\Microsoft Office\Office16
 ```
 
 Install offline license
-
+ `pega las siguientes lineas en orden`
 ```
 for /f %x in ('dir /b ..\root\Licenses16\ProPlus2021VL_KMS*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
 ```
@@ -45,7 +47,7 @@ cscript ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH
 cscript ospp.vbs /sethst:kms.srv.crsoo.com
 cscript ospp.vbs /act
 ```
-
+`hasta aqui ya deberías tener office instalado y activado, cierra powershell`
 Close your terminal and you're ready to go. Congrats, office 2021 was installed successfuly!
 
 
