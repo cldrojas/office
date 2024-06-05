@@ -1,10 +1,10 @@
 # How to install Office
 
-![cldrojas_logo](https://github.com/cldrojas/portfolio/blob/master/public/img/Daniel%20Rojas%20Brand.png)
+![cldrojas_logo](https://user-images.githubusercontent.com/16184660/180892336-66348c9f-0ee5-4397-bd56-67d4123494c2.png)
 
 ## Uninstall Office previous installations
 
-To install office correctly, first you need to uninstall previous versions of windows and license keys asociated to that software  
+To install office correctly, first you need to uninstall previous versions and license keys asociated to that software  
 Support and Recovery Asistant is the best tool for accomplish that. Created by Microsoft
 
 ### Installing SaRA
@@ -15,8 +15,8 @@ Restart your computer
 
 ### Download links
 
-- https://www.microsoft.com/en-us/download/confirmation.aspx?id=100607
-- https://support.microsoft.com/es-es/office/desinstalar-office-de-un-equipo-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8
+- [descarga](https://www.microsoft.com/en-us/download/confirmation.aspx?id=100607)
+- [Guia](https://support.microsoft.com/es-es/office/desinstalar-office-de-un-equipo-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8)
 
 ## Install Office 2021
 
