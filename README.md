@@ -15,6 +15,8 @@ Restart your computer
 
 ### Download links
 
+`descarga el programa sara y sigue la guia`
+
 - [descarga](https://www.microsoft.com/en-us/download/confirmation.aspx?id=100607)
 - [Guia](https://support.microsoft.com/es-es/office/desinstalar-office-de-un-equipo-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8)
 
@@ -33,7 +35,9 @@ cd /d %ProgramFiles%\Microsoft Office\Office16
 ```
 
 Install offline license
+
  `pega las siguientes lineas en orden`
+
 ```
 for /f %x in ('dir /b ..\root\Licenses16\ProPlus2021VL_KMS*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
 ```
